@@ -7,7 +7,8 @@ All members (e.g.., graduate students; postdocs, research associates) of the Bay
 1.	**Project-specific archiving:** for open science, collaboration, and reproducibility 
 2.	**Example script sharing**: To share code internally for commonly used applications so that students are not duplicating efforts
 
-Using Github teaches students best practices for creating reproducible analyses in a collaborative framework; a skill that is increasingly applicable across varying careers in science.
+Using Github teaches students best practices for creating reproducible analyses in a collaborative framework; a skill that is increasingly applicable across varying careers in science. 
+**Everyone is encouraged to use Open Science Foundation ([OSF](https://osf.io/)) to develop projects, and [link the OSF project to Github](https://help.osf.io/article/211-connect-github-to-a-project). 
 ________________________________________
 **Github Structure Overview**
 
