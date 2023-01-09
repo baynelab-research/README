@@ -22,10 +22,10 @@ The Bayne Lab Github organization will be the unifying organization for all Gith
 Each repo should contain:
 * A unifying project structure to facilitate easy reproducibility 
 * All scripts used to run the analyses for that project 
-* Links to project or task-specific data. This includes all synthesized or processed data, preferably stored as a .csv. This excludes: 
+* Links to project or task-specific data. This includes all synthesized or processed data. This includes: 
   * Shared data that is housed elsewhere and can be accessed via code in your script. 
   * Raw data that requires processing including acoustic and most geospatial data. 
-  * Large datasets should be housed elsewhere and accessed via code in your script. See Github guidelines on file size here. 
+  * Large datasets housed elsewhere and accessed via code in your script. See Github guidelines on file size [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). 
 
 The two objectives (example code sharing, project code archiving) have differing repo structure and code storage rules, detailed below. 
 ________________________________________
