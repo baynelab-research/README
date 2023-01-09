@@ -29,3 +29,12 @@ Each repo should contain:
 
 The two objectives (example code sharing, project code archiving) have differing repo structure and code storage rules, detailed below. 
 ________________________________________
+Code Documentation Requirements
+
+Read Me
+Each repo must have a README.md that outlines: 
+* The purpose of the code 
+* The inputs required for the code 
+* The outputs of the code 
+* Any references or publications associated with the code 
+
