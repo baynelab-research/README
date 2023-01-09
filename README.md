@@ -31,7 +31,8 @@ The two objectives (example code sharing, project code archiving) have differing
 ________________________________________
 **Basic Ropository Requirements**
 
-**Read Me** 
+**Read Me**  
+
 Each repo must have a README.md that outlines: 
 * The purpose of the repository 
 * A descripton of the file structure 
