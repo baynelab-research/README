@@ -11,12 +11,13 @@ Using Github teaches students best practices for creating reproducible analyses 
 ________________________________________
 **Github Structure Overview**
 
-The Bayne Lab Github organization will be the unifying organization for all Github code sharing.
-●	Each student or postdoc should have their own personal Github account. 
-●	Repos should be owned by the account of the student or postdoc who is first author on that project.
-●	All students will be added to members of the Bayne Lab organization.
-●	All repos including Bayne Lab work should be mirrored to the ‘baynelab-research’ organization.
-○	Data will have to be stored elsewhere, with either open access or proprietary links written into the code. 
+The Bayne Lab Github organization will be the unifying organization for all Github code sharing. 
+
+* Each student or postdoc should have their own personal Github account. 
+* Repos should be owned by the account of the student or postdoc who is first author on that project. 
+* All students will be added to members of the Bayne Lab organization. 
+* All repos including Bayne Lab work should be mirrored to the ‘baynelab-research’ organization. 
+  * Data will have to be stored elsewhere, with either open access or proprietary links written into the code.  
 
 Each repo should contain:
 ●	A unifying project structure to facilitate easy reproducibility 
