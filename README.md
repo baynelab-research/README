@@ -1,4 +1,4 @@
-# Bayne Lab Github Use Guidelines
+# Bayne Lab GitHub Use Guidelines
 
 ________________________________________
 **Objectives**
@@ -7,7 +7,7 @@ All members (e.g.., graduate students; postdocs, research associates) of the Bay
 1.	**Project-specific archiving:** for open science, collaboration, and reproducibility 
 2.	**Example script sharing**: To share code internally for commonly used applications so that students are not duplicating efforts
 
-**Why use GitHub?**
+**Why use GitHub?**  
 ![](version_control_motivation_comics.png)
 
 Using Github teaches students best practices for creating reproducible analyses in a collaborative framework; a skill that is increasingly applicable across varying careers in science.  
