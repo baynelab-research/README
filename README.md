@@ -11,7 +11,8 @@ All members (e.g.., graduate students; postdocs, research associates) of the Bay
 ![](version_control_motivation_comics.png)  
 Source: “Piled Higher and Deeper” by Jorge Cham, http://www.phdcomics.com  
 
-Using Github teaches students best practices for creating reproducible analyses in a collaborative framework; a skill that is increasingly applicable across varying careers in science.  
+The primary reason to use GitHub is for [Version Control](https://en.wikipedia.org/wiki/Version_control), which allows you to track and store changes to your files without losing the history of your past changes. Version control is important not only when writing manuscripts, but as a way to develop analyses while retaining earlier versions and documenting decicion points and work flow.  
+Using Github also teaches students best practices for creating reproducible analyses in a collaborative framework; a skill that is increasingly applicable across varying careers in science.  There are many [online tutorials](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/) on how to get started using GitHub with  R and R Projects. 
 **Everyone is encouraged to use Open Science Foundation ([OSF](https://osf.io/)) to develop projects, and [link the OSF project to Github](https://help.osf.io/article/211-connect-github-to-a-project).**  
 **OSF Video Tutorials**  
 1. [Intro to OSF](https://www.youtube.com/watch?v=iebMBpi0prc&list=PLChfyH8TVDGnlBncTXvfzuz3rjUXzFbiz)  
